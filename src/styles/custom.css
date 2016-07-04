@@ -1,0 +1,19 @@
+body,
+html,
+div.board,
+div#app{
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.note {
+    height: 200px;
+    width: 200px;
+    background-color: #5886A3;
+    margin: 2px 0;
+}
